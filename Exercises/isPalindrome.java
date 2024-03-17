@@ -1,13 +1,8 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
-package javaoop08;
+class Solution {
+    public boolean isPalindrome(int x) {
+        String numberX = Integer.toString(x);
+        String reverseX = new StringBuilder(numberX).reverse().toString();
 
-/**
- *
- * @author Augusto Winkler
- */
-public class isPalindrome {
-    
+        return numberX.equals(reverseX);
+    }
 }
