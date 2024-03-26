@@ -9,3 +9,8 @@ CREATE TABLE `conta` (
   `cliente_email` varchar(50) DEFAULT NULL,
   PRIMARY KEY (`numero`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+
+select * from conta;
+
+ALTER TABLE conta
+ADD COLUMN esta_ativa BOOLEAN DEFAULT TRUE;
