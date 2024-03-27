@@ -6,23 +6,33 @@ import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
 import javax.persistence.Persistence;
 
+import br.com.alura.loja.dao.CategoriaDAO;
+import br.com.alura.loja.dao.ProdutoDao;
+import br.com.alura.loja.modelo.Categoria;
 import br.com.alura.loja.modelo.Produto;
+import br.com.alura.loja.util.JPAUtil;
 
 public class cadastrodeproduto {
 	
 	public static void main(String[] args) {
-		Produto celular = new Produto();
 		
-		celular.setNome("Xiaomi Red-mi");
-		celular.setDescricao("Muito legal");
-		celular.setPreco(new BigDecimal("800"));
+		Categoria celulares = new Categoria("CELULARES");
 		
-		EntityManagerFactory factory = Persistence.createEntityManagerFactory("loja");
-		EntityManager em = factory.createEntityManager();
+		
+		
+		Produto celular = new Produto( "Xiaomi Red-mi" , "Muito legal" 
+				, new BigDecimal ("800") , celulares);
+		
+		
+		
+		
+		EntityManager em = JPAUtil.getEntityManager();
+		ProdutoDao produtoDao = new ProdutoDao(em);
+		CategoriaDAO categoriaDao = new CategoriaDAO(em);
 		
 		em.getTransaction().begin();
-		
-		em.persist(celular); //Insere no Banco de dados
+		categoriaDao.cadastrar(celulares);
+		produtoDao.cadastrar(celular); //Insere no Banco de dados
 		em.getTransaction().commit();
 		em.close();
 	}
