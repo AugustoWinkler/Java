@@ -7,6 +7,7 @@ import javax.persistence.EntityManagerFactory;
 import javax.persistence.Persistence;
 
 import br.com.alura.loja.dao.CategoriaDAO;
+import br.com.alura.loja.dao.CategoriaDao;
 import br.com.alura.loja.dao.ProdutoDao;
 import br.com.alura.loja.modelo.Categoria;
 import br.com.alura.loja.modelo.Produto;
@@ -16,23 +17,31 @@ public class cadastrodeproduto {
 	
 	public static void main(String[] args) {
 		
-		Categoria celulares = new Categoria("CELULARES");
-		
-		
-		
-		Produto celular = new Produto( "Xiaomi Red-mi" , "Muito legal" 
-				, new BigDecimal ("800") , celulares);
-		
-		
+		CadastrarProduto();
 		
 		
 		EntityManager em = JPAUtil.getEntityManager();
 		ProdutoDao produtoDao = new ProdutoDao(em);
-		CategoriaDAO categoriaDao = new CategoriaDAO(em);
+		Produto p = ProdutoDao.buscarPorId(1l);
+		System.out.println(p.getPreco());
+		
+		
+	}
+
+	private static void CadastrarProduto() {
+		
+		Categoria celulares = new Categoria("CELULARES");
+		Produto celular = new Produto("Xiaomi Redmi", "Muito legal", new BigDecimal("800"), celulares );
+		
+		EntityManager em = JPAUtil.getEntityManager();
+		ProdutoDao produtoDao = new ProdutoDao(em);
+		CategoriaDao categoriaDao = new CategoriaDao(em);
 		
 		em.getTransaction().begin();
+		
 		categoriaDao.cadastrar(celulares);
-		produtoDao.cadastrar(celular); //Insere no Banco de dados
+		produtoDao.cadastrar(celular);
+		
 		em.getTransaction().commit();
 		em.close();
 	}
