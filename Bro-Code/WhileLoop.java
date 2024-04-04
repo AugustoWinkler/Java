@@ -9,10 +9,10 @@ public class WhileLoop {
 		Scanner scanner = new Scanner(System.in);
 		String name = "";
 		
-		while(name.isBlank()) {
+		do {
 			System.out.println("Enter your name: ");
 			name = scanner.nextLine();
-		}
+		}while(name.isBlank())
 		
 		System.out.println("Hello " + name);
 		
