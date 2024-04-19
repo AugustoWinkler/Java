@@ -9,6 +9,8 @@ public class StaticKeyWord {
 		
 		Friend friend1 = new Friend("Sponge bob");
 		Friend friend2 = new Friend("Patrick");
+		Friend friend3 = new Friend("Squidward");
+		Friend friend4 = new Friend("Sandy");
 		
 		
 		Friend.displayFriends();
