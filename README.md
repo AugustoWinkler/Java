@@ -9,5 +9,5 @@ The main goal is to enhance my skills in Java by archiving personal projects, co
 ## Content
 - Java Courses
 - Mini Java Projects
-- Java Prototypes
+- Java Prototypes.
 
