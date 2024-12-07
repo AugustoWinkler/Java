@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flex-Box Tutorial</title>
+    <style>
+        body {
+            background-image: linear-gradient(to left, rgb(19, 18, 39), rgb(44, 41, 57));
+
+        }
+        .master{
+    
+        }
+        .banner{
+            display: flex;
+            width: 100%;
+        }
+        .info{
+            flex-direction: column;
+            justify-content: right;
+    
+        }
+        
+        .container {
+            display: flex;
+            background-color: rgba(0, 0, 0, 0.233);
+            border-radius: 10px;
+            /* Remove fixed width, let it adjust based on content */
+            width: 600px;
+        height: auto;        }
+        .container > .teste {
+            text-align: center;
+            font-size: 2em;
+            font-weight: bold;
+            color: white;
+            padding: 5px;
+            
+        }
+        .imagem{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding-right: 20px;
+        }
+        img {
+            width: 40%
+         }
+         .container1 {
+            display: flex;
+            background-color: rgba(0, 0, 0, 0.233);
+            margin: 10px;
+            border-radius: 10px;
+            /* Remove fixed width, let it adjust based on content */
+            width: 600px;
+        }
+        .container1 > .teste1 {
+            width: 300px;
+            text-align: center;
+            font-size: 2em;
+            font-weight: bold;
+            color: white;
+            padding: 5px;
+        }
+        .imagem1{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding-left: 20px;
+        }
+        img {
+            width: 40%
+         }
+    </style>
+</head>
+<body>
+    <master>
+        <div class="banner">
+            <img src="../Projeto 1/imagens/botfunction.jpg" alt="">
+        </div>
+        <div class="info">
+            <div class="container">
+               <div class="teste"><p>+170 Campeões Registrados</p></div>
+               <div class="imagem"> <img src="..//Projeto 1/imagens/Champion.png" alt=""></div>
+            </div>
+            <div class="container1">
+                <div class="imagem1"> <img src="..//Projeto 1/imagens/falas.png" alt=""></div>
+                <div class="teste1"><p>450 Falas Disponiveis e Revisadas!</p></div>
+             </div>
+             <div class="container">
+                <div class="teste"><p>Facil de usar venha se divertir!</p></div>
+                <div class="imagem"> <img src="..//Projeto 1/imagens/simples.png" alt=""></div>
+             </div>
+        </div>
+    </master>
+</body>
+</html>

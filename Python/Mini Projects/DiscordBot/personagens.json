@@ -1,0 +1,1242 @@
+{
+  "Ahri": {
+    "falas": [
+      "Sacie minha vontade.",
+      "Se você deseja jogar comigo, é melhor ter certeza de que conhece o jogo.",
+      "Tarde demais para misericórdia."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Ahri_0.jpg"
+  },
+  "Miss Fortune": {
+    "falas": [
+      "São como marinheiros de primeira viagem!",
+      "Tem certeza de que pode comigo, invocador?",
+      "Olha essa boca, garoto… Ou mando você ressurgir direto pra casa."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\MissFortune_0.jpg"
+  },
+  "Aatrox": {
+    "falas": [
+      "O verdadeiro som da minha lâmina só é ouvido por aqueles que abominam a reencarnação.",
+      "Você é chamado de vilão... Ótimo, quero conquistar o seu ódio, quantas vezes precisar.",
+      "Eles acham que eu fui derrotado, que eu estou acorrentado. Mas eu não me curvo a nada e a ninguém. Minha bênção será uma nobre carnificina."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Aatrox_0.jpg"
+  },
+  "Akali": {
+    "falas": [
+      "Eu vou traçar o meu próprio caminho.",
+      "Não desperdice a Raiva.",
+      "Não pensamos da mesma forma."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Akali_0.jpg"
+  },
+  "Alistar": {
+    "falas": [
+      "Nada pode me impedir.",
+      "Se mexer com o touro vai levar uma chifrada.",
+      "Quem você chamou de chifrudo?"
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Alistar_0.jpg"
+  },
+  "Amumu": {
+    "falas": [
+      "Vamos fazer alguns amigos.",
+      "Posso te dar um abraço?",
+      "Vamos ser amigos para sempre."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Amumu_0.jpg"
+  },
+  "Anivia": {
+    "falas": [
+      "Não sou nem a primeira, nem a última.",
+      "O ovo ou a galinha? Na verdade eu vim primeiro.",
+      "Pobres criaturas, confinadas a uma única vida."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Anivia_0.jpg"
+  },
+  "Annie": {
+    "falas": [
+      "Você quer brincar também? Vai ser divertido!",
+      "Saia daí, não vá se esconder!",
+      "Você tá com cheiro de... queimado!"
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Annie_0.jpg"
+  },
+  "Aphelios": {
+    "falas": [
+      "Não podemos deixar que o medo nos aprisione no crepúsculo.",
+      "Quando seus passos falsearem, irmão, siga a minha voz.",
+      "Deveríamos odiar um ao outro. Mas mostraremos a todos, seres perversos e divinos, que juntos somos mais fortes."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Aphelios_0.jpg"
+  },
+  "Ashe": {
+    "falas": [
+      "O mundo todo em uma flecha.",
+      "Avarosa, guie-me.",
+      "Prepare-se! Você enfrentará uma Glacinata!"
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Ashe_0.jpg"
+  },
+  "Aurelion Sol": {
+    "falas": [
+      "Eu criei as estrelas, mas você me inspira a fazer mais.",
+      "Você dobra o tempo como uma criança fazendo origami, é bonitinho, mas nada impressionante.",
+      "Algumas coisas simplesmente melhoram com a idade."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\AurelionSol_0.jpg"
+  },
+  "Azir": {
+    "falas": [
+      "Emperadores estufam o peito e carregam.",
+      "Quando cada traço de sua existencia sumir.. Eu permanecerei!",
+      "Somos os Autores da História."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Azir_0.jpg"
+  },
+  "Bardo": {
+    "falas": [
+      "\"Barulhos de Sino\"",
+      "\"Badalares de Sinos\"",
+      "\"Se ele assar o sino se tornaria um criminoso\""
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Bardo_0.jpg"
+  },
+  "Blitzcrank": {
+    "falas": [
+      "Metal é mais rigido que a carne.",
+      "Ossos são uma alternativa ruim.",
+      "Veja você está vazando!"
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Blitzcrank_0.jpg"
+  },
+  "Brand": {
+    "falas": [
+      "Pronto para incendiar o mundo.. (Risada maléfica)",
+      "O inferno se inicia.",
+      "O fogo da vingança."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Brand_0.jpg"
+  },
+  "Braum": {
+    "falas": [
+      "O Coração é o musculo mais forte.",
+      "Meu escudo é minha espada.",
+      "Hoje lutamos um contra outro, amanhã podemos lutar juntos."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Braum_0.jpg"
+  },
+  "Caitlyn": {
+    "falas": [
+      "A cada caso… A cada investigação… Eu me aproximo mais da justiça.",
+      "Eu estou confiando em vocês. Vamos até o fim com isso. E tentem não me decepcionar.",
+      "Tudo estará resolvido antes do cházinho da tarde…"
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Caitlyn_0.jpg"
+  },
+  "Camille": {
+    "falas": [
+      "Permaneço humana... na maior parte.",
+      "A tecnologia e eu temos um... relacionamento complicado.",
+      "Moralidade é uma serva linda, e uma mestra perigosa."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Camille_0.jpg"
+  },
+  "Cassiopeia": {
+    "falas": [
+      "São tantos os fios que esperam ser puxados.",
+      "Eu não sou inflexível, se é que você me entende.",
+      "Mantenha seus inimigos por perto, e eu, mais perto ainda."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Cassiopeia_0.jpg"
+  },
+  "Chogath": {
+    "falas": [
+      "Você desejou que o mundo que conhece acabe.. Sim!",
+      "Tem medo do escuro? é sábio..",
+      "Trago a eles o terror!"
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Chogath_0.jpg"
+  },
+  "Corki": {
+    "falas": [
+      "Inimigo as 12 horas.",
+      "Vamos botar ordem nisso.",
+      "Lima Oscar Lima."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Corki_0.jpg"
+  },
+  "Darius": {
+    "falas": [
+      "Somente Eu posso nos levar a vitória.",
+      "Eu não tolero covardia..",
+      "Noxus prevalecerá."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Darius_0.jpg"
+  },
+  "Diana": {
+    "falas": [
+      "Eles não me quebrariam.",
+      "O crepúsculo se aproxima!",
+      "Um homem, uma mulher e um yordle caminham sobre o sol. Eles morrem. E o sol os queima vivos. Hahahah!"
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Diana_0.jpg"
+  },
+  "Draven": {
+    "falas": [
+      "Vamos logo com isso.",
+      "Ouviu isso? é a sinfonia da morte!",
+      "Eu sou um espetáculo e vocês são a plateia."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Draven_0.jpg"
+  },
+  "DrMundo": {
+    "falas": [
+      "Mundo com mundo.",
+      "Eles vão se machucar. Por que será que eles não entendem isso?",
+      "Cirurgião perfeito? Mundo dá segundo opinião."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\DrMundo_0.jpg"
+  },
+  "Ekko": {
+    "falas": [
+      "O tempo não é como o espaço; é mais fácil eu saber onde estou do que quando estou.",
+      "Você pode ser a lâmina mais afiada, a poção mais poderosa ou o feitiço mais ardiloso, mas mesmo assim… sempre haverá algo mais rápido do que você.",
+      "Passado é passado. O futuro é um grande mistério."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Ekko_0.jpg"
+  },
+  "Elise": {
+    "falas": [
+      "Com um passo perfeitamente calculado.",
+      "Este lugar precisa de mim.",
+      "Espero que o abismo não note que estou faltando..."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Elise_0.jpg"
+  },
+  "Evelynn": {
+    "falas": [
+      "Pecados não ficam escondidos por muito tempo.",
+      "Posso ser o seu pior pesadelo.",
+      "Dizem que é só por uma noite... mas sempre dura para sempre."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Evelynn_0.jpg"
+  },
+  "Ezreal": {
+    "falas": [
+      "Você chama isso de desafio?",
+      "Sempre em busca de uma grande aventura.",
+      "Vamos lá, olho no prêmio!"
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Ezreal_0.jpg"
+  },
+  "Fiddlesticks": {
+    "falas": [
+      "A escuridão se apossou de mim… e eu achei lindo.",
+      "Comigo, as trevas sempre são uma companhia bem-vinda.",
+      "Morrer é o começo de toda a minha beleza."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Fiddlesticks_0.jpg"
+  },
+  "Fiora": {
+    "falas": [
+      "Qual é o objetivo de um abraço? O resultado ou a emoção?",
+      "Uma boa lâmina e um senso de estilo nunca saem de moda.",
+      "Se você me vir dançando, é melhor correr."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Fiora_0.jpg"
+  },
+  "Fizz": {
+    "falas": [
+      "Parece que eu dei um jeito no seu tubarão!",
+      "Brincadeirinha!",
+      "Dane-se!"
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Fizz_0.jpg"
+  },
+  "Galio": {
+    "falas": [
+      "Eu sou o protetor da Justiça. Eu sou o Guardião Demaciano.",
+      "Nada machuca mais do que a verdade.",
+      "Poder e glória são efêmeros, é o amor que perdura."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Galio_0.jpg"
+  },
+  "Gangplank": {
+    "falas": [
+      "Nunca perdi uma batalha, nem mesmo para mim mesmo.",
+      "Quem é o meu próximo oponente?",
+      "Ninguém manda no Butcher das Docas."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Gangplank_0.jpg"
+  },
+  "Garen": {
+    "falas": [
+      "Eu cumprirei o meu dever.",
+      "A justiça cega é apenas um eufemismo para a vingança.",
+      "Dê um passo à frente. Eu darei a volta."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Garen_0.jpg"
+  },
+  "Gnar": {
+    "falas": [
+      "Gnar gnar! (risadas)",
+      "Gnar!",
+      "Gnarr!"
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Gnar_0.jpg"
+  },
+  "Gragas": {
+    "falas": [
+      "A cerveja, ela me ama.",
+      "Ei, você já viu um Yeti?",
+      "Todo mundo bate… algumas vezes, é no whisky."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Gragas_0.jpg"
+  },
+  "Graves": {
+    "falas": [
+      "Já vi coisas que fariam vocês duvidarem dos seus olhos.",
+      "Meu modo de vida é sempre estar procurando algo novo.",
+      "Meu destino é achar a minha próxima parada."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Graves_0.jpg"
+  },
+  "Gwen": {
+    "falas": [
+      "Meu fio, minha escolha.",
+      "Meu trabalho é reescrever o mundo.",
+      "Quando você conhece a morte como eu, viver passa a ser uma opção."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Gwen_0.jpg"
+  },
+  "Hecarim": {
+    "falas": [
+      "Nada será deixado de pé.",
+      "A morte é apenas o começo.",
+      "Vocês têm medo da escuridão? Vocês deveriam."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Hecarim_0.jpg"
+  },
+  "Heimerdinger": {
+    "falas": [
+      "Explorar é descobrir o que você não sabia que estava procurando.",
+      "O verdadeiro mestre é um eterno aprendiz.",
+      "Minha engenhosidade é um dom… e uma maldição."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Heimerdinger_0.jpg"
+  },
+  "Illaoi": {
+    "falas": [
+      "A dor é apenas uma ilusão.",
+      "Teste a sua fé.",
+      "Você acredita no que você vê ou vê o que você acredita?"
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Illaoi_0.jpg"
+  },
+  "Irelia": {
+    "falas": [
+      "A dança começa.",
+      "A espada tem dois gumes.",
+      "Perceba a beleza... da lâmina do meu estilo."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Irelia_0.jpg"
+  },
+  "Ivern": {
+    "falas": [
+      "Uma coisa é certa: vou cuidar de você.",
+      "A natureza é um presente.",
+      "Pare de se preocupar e viva!"
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Ivern_0.jpg"
+  },
+  "Janna": {
+    "falas": [
+      "Faz muito tempo desde que eu... sinto um vento bom.",
+      "Eu sou uma tempestade tranquila.",
+      "A vida é como o vento, às vezes, é uma brisa suave, e outras vezes, é um furacão."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Janna_0.jpg"
+  },
+  "Jarvan IV": {
+    "falas": [
+      "Demacia! Agora e para sempre.",
+      "Fazemos o que é certo!",
+      "Eu luto pelo meu reino, com honra e glória."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Jarvan IV_0.jpg"
+  },
+  "Jax": {
+    "falas": [
+      "Imagine se eu tivesse uma arma de verdade.",
+      "Fique um tempo em Icathia e você logo vai se lembrar do porquê ele é o fim.",
+      "Que sorte... eu adoro uma luta justa."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Jax_0.jpg"
+  },
+  "Jayce": {
+    "falas": [
+      "A bravura é destemida.",
+      "Eu estou sempre na vanguarda.",
+      "Um grande poder exige um grande custo."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Jayce_0.jpg"
+  },
+  "Jhin": {
+    "falas": [
+      "O futuro é muito importante para ser deixado ao acaso.",
+      "Vida, morte, suas perguntas, minhas respostas.",
+      "Suas emoções são apenas um obstáculo."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Jhin_0.jpg"
+  },
+  "Jinx": {
+    "falas": [
+      "A loucura é como a gravidade. Só precisa de um empurrãozinho.",
+      "Muito chato ficar aqui sentada. Será que tem alguém para explodir?",
+      "Alguém tem que sair por aí e fazer alguma coisa divertida. Por que não eu?"
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Jinx_0.jpg"
+  },
+  "Kai'Sa": {
+    "falas": [
+      "Eu sou a filha do vazio.",
+      "A escuridão também é minha amiga.",
+      "O vazio está me consumindo, mas eu sobreviverei."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Kai'Sa_0.jpg"
+  },
+  "Kalista": {
+    "falas": [
+      "A traição mancha a alma.",
+      "A vingança tem um preço alto.",
+      "A vida é efêmera, mas a vingança é eterna."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Kalista_0.jpg"
+  },
+  "Karma": {
+    "falas": [
+      "O equilíbrio é essencial.",
+      "Paz, mas nunca complacência.",
+      "Seja gentil. O resto virá naturalmente."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Karma_0.jpg"
+  },
+  "Karthus": {
+    "falas": [
+      "A morte não é o fim. É apenas o começo.",
+      "Eu sou o eco do vazio.",
+      "O fim é inevitável. É melhor aceitar isso."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Karthus_0.jpg"
+  },
+  "Kassadin": {
+    "falas": [
+      "O fim está próximo.",
+      "As sombras me possuem.",
+      "A escuridão é o único refúgio verdadeiro."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Kassadin_0.jpg"
+  },
+  "Katarina": {
+    "falas": [
+      "Violência resolve tudo.",
+      "A morte é o meu ofício.",
+      "Eu não preciso de uma boa espada para cortar um coração."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Katarina_0.jpg"
+  },
+  "Kayle": {
+    "falas": [
+      "Eu sou o julgamento de Targon.",
+      "Não há salvação sem sacrifício.",
+      "A justiça cega não é justiça. É vingança."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Kayle_0.jpg"
+  },
+  "Kayn": {
+    "falas": [
+      "Minha dor é o meu dom.",
+      "Você conhece o medo? Sua alma está quase tão quebrada quanto a minha.",
+      "Eu tenho uma adaga no coração. Você quer ficar com ela?"
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Kayn_0.jpg"
+  },
+  "Kennen": {
+    "falas": [
+      "Minhas técnicas são mais eficazes que a força bruta.",
+      "Eu sou o olho da tempestade.",
+      "Uma tempestade está se formando."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Kennen_0.jpg"
+  },
+  "Kha'Zix": {
+    "falas": [
+      "Eu sou a evolução em sua forma mais letal.",
+      "A carne é fraca, mas eu sou delicioso.",
+      "Você pode correr, mas não se esconder."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Kha'Zix_0.jpg"
+  },
+  "Kindred": {
+    "falas": [
+      "A vida tem um início e um fim.",
+      "A morte é apenas o começo.",
+      "Encontre-me... nas trevas."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Kindred_0.jpg"
+  },
+  "Kled": {
+    "falas": [
+      "Eu estou cercado por idiotas.",
+      "Ninguém me segura!",
+      "Aqueles covardes nunca viram um iordle num lagarto de batalha, mas logo aprenderão!"
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Kled_0.jpg"
+  },
+  "Kog'Maw": {
+    "falas": [
+      "Eu gosto de mastigar.",
+      "Nunca um banquete tem um fim.",
+      "Eu sou Kog'Maw. Eu explodo coisas."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Kog'Maw_0.jpg"
+  },
+  "LeBlanc": {
+    "falas": [
+      "Mentira e ilusão... tão deliciosas.",
+      "Só os tolos caem na armadilha da verdade.",
+      "Eu sou o segredo mais bem guardado de Noxus."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\LeBlanc_0.jpg"
+  },
+  "Lee Sin": {
+    "falas": [
+      "Dominar a si mesmo é vencer mil batalhas.",
+      "A força é apenas uma das muitas qualidades de um verdadeiro guerreiro.",
+      "A verdadeira percepção vem de dentro."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Lee Sin_0.jpg"
+  },
+  "Leona": {
+    "falas": [
+      "A luz guia, mas a justiça prevalece.",
+      "Eu sou o sol na escuridão.",
+      "A verdade não tem sombras."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Leona_0.jpg"
+  },
+  "Lillia": {
+    "falas": [
+      "A escuridão não é o meu destino.",
+      "A beleza floresce no coração da batalha.",
+      "Cada sonho é um sopro de esperança."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Lillia_0.jpg"
+  },
+  "Lissandra": {
+    "falas": [
+      "A vida é efêmera, a verdade é eterna.",
+      "O frio é o meu abraço.",
+      "O inverno desperta."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Lissandra_0.jpg"
+  },
+  "Lucian": {
+    "falas": [
+      "Eu enfrentarei a escuridão.",
+      "O mal não pode me deter.",
+      "Minha fúria é um fogo eterno."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Lucian_0.jpg"
+  },
+  "Lulu": {
+    "falas": [
+      "Tão rápido quanto o vento, tão quieto quanto a floresta, tão audacioso quanto o fogo e imóvel como a montanha.",
+      "A fantasia é a única realidade.",
+      "Brincar é viver!"
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Lulu_0.jpg"
+  },
+  "Lux": {
+    "falas": [
+      "A luz da minha estrela nunca se apaga.",
+      "A verdadeira força vem de dentro.",
+      "Nunca perca a esperança."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Lux_0.jpg"
+  },
+  "Malphite": {
+    "falas": [
+      "Meu corpo é de pedra, mas meu coração é de aço.",
+      "A pedra é inquebrável.",
+      "O verdadeiro poder é indestrutível."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Malphite_0.jpg"
+  },
+  "Malzahar": {
+    "falas": [
+      "A existência é um tormento.",
+      "A escuridão é o único caminho.",
+      "Minha visão é além do alcance."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Malzahar_0.jpg"
+  },
+  "Maokai": {
+    "falas": [
+      "Eu sou a terra sob seus pés.",
+      "O mundo está em constante mudança.",
+      "A natureza é o meu lar."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Maokai_0.jpg"
+  },
+  "Master Yi": {
+    "falas": [
+      "Eu luto por uma causa maior que eu mesmo.",
+      "A mente e o corpo são um.",
+      "O verdadeiro mestre é um eterno aprendiz."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Master Yi_0.jpg"
+  },
+  "Mordekaiser": {
+    "falas": [
+      "Eu sou o senhor do metal.",
+      "Ouça o som da sua ruína.",
+      "A morte é apenas o começo."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Mordekaiser_0.jpg"
+  },
+  "Morgana": {
+    "falas": [
+      "A justiça cega não é justiça.",
+      "A escuridão não é a ausência de luz. É a convicção de que a luz nunca voltará.",
+      "Eu sou a lembrança do que você fez de errado."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Morgana_0.jpg"
+  },
+  "Nami": {
+    "falas": [
+      "Os mares são vastos e imprevisíveis.",
+      "A paz é a maré que nos une.",
+      "A água é paciente. Ela pode esperar."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Nami_0.jpg"
+  },
+  "Nasus": {
+    "falas": [
+      "O deserto revela a verdade.",
+      "Minhas palavras são o destino.",
+      "O tempo é uma espiral, com começos e finais interligados."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Nasus_0.jpg"
+  },
+  "Nautilus": {
+    "falas": [
+      "Do abismo, a luz.",
+      "Toda criatura é única. Mas todos compartilhamos o mesmo destino.",
+      "A escuridão sempre encontrará a luz."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Nautilus_0.jpg"
+  },
+  "Neeko": {
+    "falas": [
+      "Só é impossível se você acreditar que é.",
+      "Cada um é o seu próprio enigma.",
+      "A magia está em todos os lugares, você só precisa saber onde procurar."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Neeko_0.jpg"
+  },
+  "Nidalee": {
+    "falas": [
+      "Caçar é a minha forma de oração.",
+      "A selva é a minha casa.",
+      "Minhas presas são afiadas e minha alma, indomável."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Nidalee_0.jpg"
+  },
+  "Nocturne": {
+    "falas": [
+      "Eu sou o pesadelo em sua alma.",
+      "A escuridão é a única verdade.",
+      "Medo é a primeira das emoções."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Nocturne_0.jpg"
+  },
+  "Nunu & Willump": {
+    "falas": [
+      "Eu não sou um garoto, sou um Yordle!",
+      "Aventure-se!",
+      "Juntos, somos mais fortes!"
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Nunu & Willump_0.jpg"
+  },
+  "Olaf": {
+    "falas": [
+      "Morra uma morte gloriosa.",
+      "Eu nunca conheci o medo. O que é uma vantagem.",
+      "A violência é o melhor remédio."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Olaf_0.jpg"
+  },
+  "Orianna": {
+    "falas": [
+      "A perfeição é um ideal inatingível.",
+      "A vida é efêmera, mas a beleza é eterna.",
+      "Eu sou o relógio e a chave."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Orianna_0.jpg"
+  },
+  "Ornn": {
+    "falas": [
+      "Ferro e fogo forjam a vontade do mundo.",
+      "O destino é como o vento. Você pode tentar se esconder, mas cedo ou tarde, ele o encontrará.",
+      "O inverno sempre volta."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Ornn_0.jpg"
+  },
+  "Pantheon": {
+    "falas": [
+      "Erga-se como um verdadeiro guerreiro.",
+      "Os deuses não definem a humanidade. É a humanidade que define os deuses.",
+      "A honra nunca se curva."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Pantheon_0.jpg"
+  },
+  "Poppy": {
+    "falas": [
+      "Nunca subestime o poder de um yordle.",
+      "Dever é o que o coração exige.",
+      "Heróis são eternos. Mas os martelos são mais práticos."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Poppy_0.jpg"
+  },
+  "Pyke": {
+    "falas": [
+      "A morte é o maior negócio.",
+      "A escuridão espreita.",
+      "Ninguém pode escapar do seu passado."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Pyke_0.jpg"
+  },
+  "Qiyana": {
+    "falas": [
+      "A glória é minha.",
+      "A verdadeira força está em dominar seu próprio destino.",
+      "Regras são para os fracos."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Qiyana_0.jpg"
+  },
+  "Quinn": {
+    "falas": [
+      "Justiça voa mais rápido que qualquer flecha.",
+      "A coragem é não ter medo de quem você é.",
+      "A justiça é o que você faz, não o que você diz."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Quinn_0.jpg"
+  },
+  "Rakan": {
+    "falas": [
+      "Juntos, somos um furacão!",
+      "Eu nunca perco um passo.",
+      "A dança é a linguagem universal."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Rakan_0.jpg"
+  },
+  "Rammus": {
+    "falas": [
+      "Ok.",
+      "Ok.",
+      "Ok."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Rammus_0.jpg"
+  },
+  "Rek'Sai": {
+    "falas": [
+      "O terror rasteja sob a terra.",
+      "As presas da minha fome...",
+      "Eu sou a morte que rasteja."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Rek'Sai_0.jpg"
+  },
+  "Rell": {
+    "falas": [
+      "Juntos, somos invencíveis.",
+      "O aço nunca se rende.",
+      "Proteger é a minha missão."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Rell_0.jpg"
+  },
+  "Renekton": {
+    "falas": [
+      "A fera em mim nunca morrerá.",
+      "A fúria é a verdadeira força.",
+      "As trevas nunca me engolirão completamente."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Renekton_0.jpg"
+  },
+  "Rengar": {
+    "falas": [
+      "A caça é eterna.",
+      "Eu sou o predador, você é a presa.",
+      "Nunca escapei de um oponente."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Rengar_0.jpg"
+  },
+  "Riven": {
+    "falas": [
+      "O verdadeiro erro é não enfrentar o próprio medo.",
+      "A espada é uma extensão do meu coração.",
+      "Eu escolho o meu destino."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Riven_0.jpg"
+  },
+  "Rumble": {
+    "falas": [
+      "Eu gosto quando as coisas explodem.",
+      "Piloto e máquina, juntos até o fim.",
+      "Rumble é o meu nome. E arrebentar é o meu jogo."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Rumble_0.jpg"
+  },
+  "Ryze": {
+    "falas": [
+      "A magia é um fluxo constante.",
+      "O conhecimento é poder, assim como a magia.",
+      "O passado é uma ferida aberta."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Ryze_0.jpg"
+  },
+  "Samira": {
+    "falas": [
+      "Eu sou a tormenta que nunca acaba.",
+      "Nada pode me deter.",
+      "A moda é uma arma, e eu sou uma assassina habilidosa."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Samira_0.jpg"
+  },
+  "Sejuani": {
+    "falas": [
+      "A vontade do Freljord é inquebrável.",
+      "Ferros e gelo forjam meu espírito.",
+      "Aqueles que ousam me desafiar enfrentam o frio do Freljord."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Sejuani_0.jpg"
+  },
+  "Senna": {
+    "falas": [
+      "A luz sempre encontra o seu caminho.",
+      "Nada pode me deter.",
+      "Eu trago a esperança onde quer que eu vá."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Senna_0.jpg"
+  },
+  "Seraphine": {
+    "falas": [
+      "A música é o coração da alma.",
+      "Eu canto as histórias do mundo.",
+      "A harmonia é a chave para a felicidade."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Seraphine_0.jpg"
+  },
+  "Sett": {
+    "falas": [
+      "Lutar é o que eu faço de melhor.",
+      "Nunca recuo de uma luta.",
+      "O verdadeiro poder não se esconde nas sombras."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Sett_0.jpg"
+  },
+  "Shaco": {
+    "falas": [
+      "Um sorriso significa mais do que as palavras.",
+      "A piada é minha arma mortal.",
+      "Rir é uma alegria. Matança, uma delícia."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Shaco_0.jpg"
+  },
+  "Shen": {
+    "falas": [
+      "Aqueles que são mais fortes devem proteger os mais fracos.",
+      "A sombra é meu aliado.",
+      "A sabedoria dita o caminho certo."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Shen_0.jpg"
+  },
+  "Shyvana": {
+    "falas": [
+      "A fúria do dragão não pode ser contida.",
+      "Minhas presas estão sempre afiadas.",
+      "Dragões são a verdadeira força do mundo."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Shyvana_0.jpg"
+  },
+  "Singed": {
+    "falas": [
+      "A loucura é como o veneno, ela entra pelos poros e toma conta de você.",
+      "Inspire, expire...",
+      "A ciência nunca recua!"
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Singed_0.jpg"
+  },
+  "Sion": {
+    "falas": [
+      "A morte não pode me conter.",
+      "O meu propósito é a guerra.",
+      "Eu trago a morte."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Sion_0.jpg"
+  },
+  "Sivir": {
+    "falas": [
+      "Fortuna favorece a audácia.",
+      "Nunca fico sem ouro.",
+      "Lâminas são apenas o começo. Eu carrego o peso do mundo em meus ombros."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Sivir_0.jpg"
+  },
+  "Skarner": {
+    "falas": [
+      "O equilíbrio é uma mentira - somente a batalha importa.",
+      "A pedra esconde segredos insondáveis.",
+      "Um dia, Skarner encontrará a Ascensão."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Skarner_0.jpg"
+  },
+  "Sona": {
+    "falas": [
+      "A música é mágica.",
+      "A melodia é o meu espírito.",
+      "O som é o meu caminho."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Sona_0.jpg"
+  },
+  "Soraka": {
+    "falas": [
+      "Estrelas guiam o meu caminho.",
+      "A cura é uma dádiva.",
+      "A paz é o maior presente."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Soraka_0.jpg"
+  },
+  "Swain": {
+    "falas": [
+      "Segredos mantêm-se na sombra.",
+      "A visão revela-se quando você acredita.",
+      "A sabedoria é um tesouro."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Swain_0.jpg"
+  },
+  "Sylas": {
+    "falas": [
+      "A magia é uma corrente que nos une.",
+      "O poder é para todos, não apenas para os privilegiados.",
+      "Eu sou o inimigo dos tiranos."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Sylas_0.jpg"
+  },
+  "Syndra": {
+    "falas": [
+      "A escuridão nunca descansa.",
+      "O poder não pode ser contido.",
+      "As estrelas obedecem a mim."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Syndra_0.jpg"
+  },
+  "Tahm Kench": {
+    "falas": [
+      "O caminho mais curto para o coração é através do estômago.",
+      "As promessas foram feitas para serem quebradas.",
+      "A fome não pode ser saciada."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\TahmKench_0.jpg"
+  },
+  "Taliyah": {
+    "falas": [
+      "A terra é minha mãe.",
+      "A pedra é o meu lar.",
+      "A força da terra é inesgotável."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Taliyah_0.jpg"
+  },
+  "Talon": {
+    "falas": [
+      "A lâmina oculta a verdade.",
+      "Apenas os tolos se matam cegamente.",
+      "Eu sou o punhal nas sombras."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Talon_0.jpg"
+  },
+  "Taric": {
+    "falas": [
+      "A beleza é em todas as coisas.",
+      "O verdadeiro poder brilha de dentro.",
+      "Luz guia meus passos."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Taric_0.jpg"
+  },
+  "Teemo": {
+    "falas": [
+      "Satã é meu nome.",
+      "Prepare-se para morrer!",
+      "Teemo reportado."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Teemo_0.jpg"
+  },
+  "Thresh": {
+    "falas": [
+      "A vida é prisão.",
+      "A morte é liberdade.",
+      "A alma é a chama que nunca se apaga."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Thresh_0.jpg"
+  },
+  "Tristana": {
+    "falas": [
+      "Explodir coisas é divertido!",
+      "Lutarei pelo meu lar.",
+      "Eu sempre aponto para o topo."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Tristana_0.jpg"
+  },
+  "Trundle": {
+    "falas": [
+      "O Freljord é meu!",
+      "O gelo é tão frágil quanto a honra.",
+      "Eu sou o rei dos trolls."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Trundle_0.jpg"
+  },
+  "Tryndamere": {
+    "falas": [
+      "Não há medo na luta.",
+      "A honra é o último refúgio do tolo.",
+      "A raiva é minha aliada."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Tryndamere_0.jpg"
+  },
+  "Twisted Fate": {
+    "falas": [
+      "A sorte é uma dama inconstante.",
+      "A vida é uma aposta.",
+      "Eu nunca falho - só aprendo."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\TwistedFate_0.jpg"
+  },
+  "Twitch": {
+    "falas": [
+      "Aqui ratinho, ratinho...",
+      "Ratos... Eu adoro ratos.",
+      "Eu sou mais esperto que todos vocês."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Twitch_0.jpg"
+  },
+  "Udyr": {
+    "falas": [
+      "Aquele que segue a natureza nunca se perderá.",
+      "O espírito é inquebrável.",
+      "A força da fera está dentro de mim."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Udyr_0.jpg"
+  },
+  "Urgot": {
+    "falas": [
+      "A dor é temporária. A força é eterna.",
+      "A carne é fraca.",
+      "Morte aos fracos."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Urgot_0.jpg"
+  },
+  "Varus": {
+    "falas": [
+      "A dor é uma ilusão.",
+      "O arco é a extensão da minha vontade.",
+      "Eu sou a flecha da vingança."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Varus_0.jpg"
+  },
+  "Vayne": {
+    "falas": [
+      "A noite é o meu manto.",
+      "A justiça não pode se esconder.",
+      "Eu sou a caçadora."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Vayne_0.jpg"
+  },
+  "Veigar": {
+    "falas": [
+      "A maldade é fofa.",
+      "A escuridão é o verdadeiro poder.",
+      "O mal nunca descansa."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Veigar_0.jpg"
+  },
+  "Vel'Koz": {
+    "falas": [
+      "O conhecimento é o fim de tudo.",
+      "Aprender é destruir.",
+      "A razão é imperfeita."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Velkoz_0.jpg"
+  },
+  "Vi": {
+    "falas": [
+      "Socos primeiro, perguntas depois.",
+      "Vencer é tudo.",
+      "Nada pode me segurar."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Vi_0.jpg"
+  },
+  "Viego": {
+    "falas": [
+      "Vou encontrar minha esposa, não importa o custo.",
+      "Eu sou o último rei.",
+      "A morte não pode me segurar."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Viego_0.jpg"
+  },
+  "Viktor": {
+    "falas": [
+      "A evolução não para.",
+      "A máquina é superior.",
+      "Eu sou o futuro."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Viktor_0.jpg"
+  },
+  "Vladimir": {
+    "falas": [
+      "A vida é efêmera, mas a morte é eterna.",
+      "A carne é fraca, mas o sangue é eterno.",
+      "Eu bebo para a vida eterna."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Vladimir_0.jpg"
+  },
+  "Volibear": {
+    "falas": [
+      "A tempestade se aproxima.",
+      "O trovão está comigo.",
+      "A fúria do urso é insaciável."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Volibear_0.jpg"
+  },
+  "Warwick": {
+    "falas": [
+      "O cheiro de sangue me deixa louco.",
+      "Nunca duvide do poder do lobo solitário.",
+      "Eu sou o caçador."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Warwick_0.jpg"
+  },
+  "Wukong": {
+    "falas": [
+      "A determinação é o caminho para a vitória.",
+      "A mente é mais forte que qualquer arma.",
+      "Eu sou o rei das artes marciais."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Wukong_0.jpg"
+  },
+  "Xayah": {
+    "falas": [
+      "A liberdade é uma ilusão.",
+      "As lâminas são minha voz.",
+      "Eu sou a rebelde."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Xayah_0.jpg"
+  },
+  "Xerath": {
+    "falas": [
+      "A luz é a morte da magia.",
+      "A sabedoria é imortal.",
+      "Eu sou a cólera do deserto."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Xerath_0.jpg"
+  },
+  "Xin Zhao": {
+    "falas": [
+      "A justiça guia minha lâmina.",
+      "A honra é na morte.",
+      "Eu sou o protetor."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\XinZhao_0.jpg"
+  },
+  "Yasuo": {
+    "falas": [
+      "A morte é como o vento, sempre ao meu lado.",
+      "Aquele que nunca cai, nunca se levanta.",
+      "Eu sou a tempestade."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Yasuo_0.jpg"
+  },
+  "Yone": {
+    "falas": [
+      "O equilíbrio é frágil.",
+      "A verdade é um destino incerto.",
+      "Eu sou a espada que corta os véus."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Yone_0.jpg"
+  },
+  "Yorick": {
+    "falas": [
+      "A morte é apenas o começo.",
+      "A carne é fraca, mas o espírito é eterno.",
+      "Eu sou o coveiro."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Yorick_0.jpg"
+  },
+  "Yuumi": {
+    "falas": [
+      "Você não pode me pegar!",
+      "Um livro é o melhor amigo de um gato.",
+      "Eu sou a magia dos gatos."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Yuumi_0.jpg"
+  },
+  "Zac": {
+    "falas": [
+      "Sou o herói que Piltover não merece.",
+      "Meu corpo é líquido.",
+      "Eu sou o pegajoso."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Zac_0.jpg"
+  },
+  "Zed": {
+    "falas": [
+      "As sombras são para serem temidas.",
+      "O equilíbrio é uma mentira.",
+      "Eu sou o mestre das sombras."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Zed_0.jpg"
+  },
+  "Ziggs": {
+    "falas": [
+      "Quem quer um pedacinho de mim?",
+      "Eu amo quando as coisas explodem!",
+      "Eu sou o maluco das bombas."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Ziggs_0.jpg"
+  },
+  "Zilean": {
+    "falas": [
+      "O tempo é um círculo.",
+      "O tempo voa como uma flecha.",
+      "Eu sou o guardião do tempo."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Zilean_0.jpg"
+  },
+  "Zoe": {
+    "falas": [
+      "A imaginação é o lugar mais divertido.",
+      "A realidade é o maior pesadelo.",
+      "Eu sou a mensageira dos sonhos."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Zoe_0.jpg"
+  },
+  "Zyra": {
+    "falas": [
+      "A natureza é uma força implacável.",
+      "As flores irão conquistar a tudo.",
+      "Eu sou o jardim da morte."
+    ],
+    "imagem": "C:\\Users\\Augusto Winkler\\PycharmProjects\\DiscordBot\\personagensimg\\Zyra_0.jpg"
+  }
+}

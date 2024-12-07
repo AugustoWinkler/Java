@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flexbox2</title>
+    <style>
+        header{
+            display: flex;
+            color: white;
+            text-align: center;
+            width: 100%;
+            height: 800px;
+            margin: auto;
+           
+        }
+        header > h1{
+            display: flex;
+            width: 35%;
+            height: 150px;
+            text-align: center;
+            font-size: 2em;
+            font-weight: bolder;
+            color: white;
+            margin: auto;
+            padding-left: 100px;
+            
+
+        }
+        .introduction{
+            display: flex;
+            margin: auto;
+            width: 100%;
+            padding-left: 10%;
+            
+            
+        }
+        body{
+            background-image: linear-gradient(to bottom, rgb(45, 45, 45),rgb(28, 28, 28));
+        }
+        .container{
+            display: flex;
+            height: 700px;
+        }
+        .teste{
+            display: flex;
+            width: 100%;
+            padding-left: 10px;
+            margin: auto;
+            
+        }
+        .info{
+            border-radius: 20px;
+            display: flex;
+            background-color: rgba(0, 0, 0, 0.350);
+            height: 200px
+            
+        }
+        .texto{
+            display: flex;
+            width: 50%;
+            height: 150px;
+            text-align: center;
+            font-size: 2em;
+            font-weight: bolder;
+            color: white;
+            margin: auto;
+        }
+        .imagem{
+           width: 50%;
+           margin: auto;
+        }
+        img{
+            width: 30%;
+        }
+        .new{
+            margin-top: 10px;
+            display: flex;
+            flex-direction: column;
+        }
+        #function{
+            margin: auto;
+            width: 90%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>
+            Olá, Sou o Cool Guys Legends
+            Seu Bot de advinhação de Frases de Campeões
+        </h1>
+        <div class="introduction"><img src="../Projeto 1/imagens/magicminiointroduction.jpg" alt=""></div>
+    </header>
+    <div class="container">
+        <div class="teste">
+            <img id="function" src="../Projeto 1/imagens/botfunction.jpg" alt="">
+        </div>
+        <div class="teste">
+            <div class="new">
+                <div class="info">
+                    <div class="texto"><p>+170 Campeões Registrados</p></div>
+                    <div class="imagem"> <img src="..//Projeto 1/imagens/Champion.png" alt=""></div>
+                </div>
+            <div class="new">
+                <div class="info">
+                    <div class="texto"><p>500 Falas únicas e Revisadas</p></div>
+                    <div class="imagem"> <img src="..//Projeto 1/imagens/falas.png" alt=""></div>
+                </div>
+            <div class="new">
+                <div class="info">
+                    <div class="texto"><p>Simples, pratico e intuitivo</p></div>
+                    <div class="imagem"> <img src="..//Projeto 1/imagens/simples.png" alt=""></div>
+                </div>    
+            </div>
+          
+        </div>
+    </div>
+    
+</body>
+</html>

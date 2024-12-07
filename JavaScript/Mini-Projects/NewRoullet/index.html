@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Roleta</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <body>
+        <div class="container">
+            <div class="spinBtn">Spin</div>
+            <div class="wheel">
+                <div class="number verde"  style="--i:1;"><span></span></div>
+                <div class="number vermelho"  style="--i:2;"><span></span></div>
+                <div class="number preto"  style="--i:3;"><span></span></div>
+                <div class="number vermelho"  style="--i:4;"><span></span></div>
+                <div class="number preto"  style="--i:5;"><span></span></div>
+                <div class="number vermelho"  style="--i:6;"><span></span></div>
+                <div class="number preto"  style="--i:7;"><span></span></div>
+                <div class="number vermelho"  style="--i:8;"><span></span></div>
+                <div class="number preto"  style="--i:9;"><span></span></div>
+                <div class="number vermelho"  style="--i:10;"><span></span></div>
+                <div class="number preto"  style="--i:11;"><span></span></div>
+                <div class="number vermelho"  style="--i:12;"><span></span></div>
+                <div class="number preto"  style="--i:13;"><span></span></div>
+                <div class="number vermelho"  style="--i:14;"><span></span></div>
+                <div class="number preto"  style="--i:15;"><span></span></div>
+                <div class="number vermelho"  style="--i:16;"><span></span></div>
+                <div class="number preto"  style="--i:17;"><span></span></div>
+                <div class="number vermelho"  style="--i:18;"><span></span></div>
+                <div class="number preto"  style="--i:19;"><span></span></div>
+                <div class="number vermelho"  style="--i:20;"><span></span></div>
+                <div class="number preto"  style="--i:21;"><span></span></div>
+                <div class="number vermelho"  style="--i:22;"><span></span></div>
+                <div class="number preto"  style="--i:23;"><span></span></div>
+                <div class="number vermelho"  style="--i:24;"><span></span></div>
+                <div class="number preto"  style="--i:25;"><span></span></div>
+                <div class="number vermelho"  style="--i:26;"><span></span></div>
+                <div class="number preto"  style="--i:27;"><span></span></div>
+                <div class="number vermelho"  style="--i:28;"><span></span></div>
+                <div class="number preto"  style="--i:29;"><span></span></div>
+                <div class="number vermelho"  style="--i:30;"><span></span></div>
+                <div class="number preto"  style="--i:31;"><span></span></div>
+                <div class="number vermelho"  style="--i:32;"><span></span></div>
+                <div class="number preto"  style="--i:33;"><span></span></div>
+                <div class="number vermelho"  style="--i:34;"><span></span></div>
+                <div class="number preto"  style="--i:35;"><span></span></div>
+                <div class="number vermelho"  style="--i:36;"><span></span></div>
+                <div class="number preto"  style="--i:37;"><span></span></div>
+
+               
+    
+            </div>
+        </div>
+    
+    
+</body>
+<script>
+    let wheel =  document.querySelector('.wheel');
+    let spinBtn =  document.querySelector('.spinBtn');
+    let value = Math.ceil(Math.random() * 3600);
+
+    spinBtn.onclick = function() {
+    wheel.style.transform = "rotate(" + value + "deg)";
+    value += Math.ceil(Math.random() * 3600);
+}
+
+</script>
+</html>

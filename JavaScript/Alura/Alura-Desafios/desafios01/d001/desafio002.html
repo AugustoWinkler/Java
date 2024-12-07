@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Positivo ou Negativo</title>
+    <style>
+        body{
+            width: 100vw;
+            height: 46vh;
+            background-image: linear-gradient(to Bottom, rgb(10, 4, 25), black);
+        }
+        h1{
+            font-size: 3em;
+            text-align: center;
+            margin-top: 25%;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+<h1>
+    Bem Vindo ao Avaliador de Positivos ou Negativos!
+</h1>
+    
+</body>
+</html>
+<script>
+    let numero = window.prompt('Digite um Valor e direi se é Positivo ou negativo');
+
+    if(numero==0){
+        window.alert(`O valor: ${numero} é neutro`)
+    }else if (numero<0){
+        window.alert(`O valor ${numero} é negativo`)
+    }else{
+        window.alert(`O valor ${numero} é positivo`)
+    }
+
+</script>
+
+
+
+
+

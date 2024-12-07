@@ -1,0 +1,98 @@
+@font-face {
+    font-family: 'Droid' ;
+    src: url(fontes/idroid.otf) ('opentype') ;
+    font-weight: normal;
+    font-style: normal;
+}
+header{
+    background-image:linear-gradient(to bottom,#3BD47F, #1A5B37);
+    padding: 10px;
+}
+header > h1 {
+    color: white;
+    text-align: center;
+}
+header > h2 {
+    color: white;
+    text-align: center;
+    
+    
+}
+body{
+    background-color: #84E1AD;
+    width: auto;
+ 
+   
+}
+nav{
+    background-color: #1A5B37;
+    padding: 5px;
+}
+nav > a {
+    text-decoration: none;
+    color: white;
+    margin: 15px;
+}
+nav a:hover{
+    background-color: #3BD47F;
+    text-decoration: underline;
+    color: yellow;
+    padding: 4px;
+    border-radius: 5px;
+}
+main{
+    display: block;
+    width: 800px;
+    margin: auto;
+    background-color: white;
+}
+section > h1{
+    font-family: 'Droid';
+    padding: 5px;
+    color: #1A5B37;
+}
+section >h2{
+    font-family: 'Droid', sans-serif;
+    padding: 5px;
+    color: #1A5B37;
+    background-color: #3bd4806b;
+}
+section > p{
+    padding: 5px;
+    color: black;
+}
+
+#tabela{
+    background-color: #9cdcb8;
+    margin: 10px 40px;
+    border-radius: 10px 10px;
+}
+#tabela > h1{
+    background-color: #2fa564;
+    color: white;
+    border-radius: 10px 10px;
+}
+#tabela >p {
+    text-align: center;
+}
+.lista-dividida {
+    overflow: hidden; 
+  }
+
+  .coluna {
+    width: 50%; 
+    float: left; 
+    padding: 0;
+    list-style: none; 
+  }
+ #bugdroid{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+  }
+ #video{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+ }

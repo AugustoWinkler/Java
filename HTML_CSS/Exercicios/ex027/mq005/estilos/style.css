@@ -1,0 +1,70 @@
+@charset "UTF-8";
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: lightgray;
+    
+}
+
+header{
+    background-color: rgb(178, 177, 177);
+}
+header > h1{
+    padding: 10px;
+    text-align: ;
+
+}
+menu{
+    display: none;
+}
+menu>ul{
+    list-style-type: none;
+}
+menu > ul >li > a{
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+    background-color: rgb(64, 64, 64);
+    text-align: center;
+    border-top: 1px solid grey;
+    color: white;
+
+}
+menu > ul >li > a:hover{
+    background-color: rgb(90, 90, 90);
+}
+
+main{
+    width: 90vw;
+    background-color: white;
+    margin: auto;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 10px;
+
+}
+main > article >h1{
+    padding-bottom: 20px;
+}
+article > p {
+    text-align: justify;
+    margin-bottom: 20px;
+    text-indent: 10px;
+}
+#burguer{
+    background-color: rgb(61, 61, 61);
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    cursor: pointer;
+}
+#burguer:hover{
+    background-color: white;
+    color: black;
+}

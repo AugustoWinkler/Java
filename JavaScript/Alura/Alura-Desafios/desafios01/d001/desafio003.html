@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contar até 10</title>
+</head>
+<body>
+    <button onclick="contar10()">Aperte Aqui pra contar até 10</button>
+    <button onclick="contarReverso()">Aperte Aqui para contar de 10 até 1</button>
+    
+    <script>
+        function contar10(){
+            let x = 0;
+            while(x <= 10){
+                console.log(x);
+                x++;
+            }
+        }
+        function contarReverso(){
+            let x = 10;
+            while(x>=1){
+                console.log(x);
+                x--;
+            }
+        }
+    </script>
+</body>
+
+</html>

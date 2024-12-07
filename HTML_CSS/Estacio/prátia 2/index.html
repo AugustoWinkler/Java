@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form Estácio</title>
+</head>
+<body>
+    <form action="proessa_form.php" method="post">
+
+        <fieldset>
+            <legend>Dados Gerais</legend>
+            
+            <label for="nome">Nome:</label>
+            <input type="text" minlength="3" id="nome" name="nome" required>
+
+            <label for="data_nascimento" > Data Nascimento</label>
+            <input type="text" id="data_nascimento" name="data_nascimento">
+
+            <label for="cpf">CPF</label>
+            <input type="text" maxlength="11" minlength="11" id="cpf" name="cpf" required>
+            
+            <label for="tel">Tel. Celular</label>
+            <input type="tel" maxlength="13" id="tel" name="tel" placeholder="11-99999-9999" pattern="[0-9] (2) - [0-9] (5) - [09] (4)">
+
+        </fieldset>
+
+    </form>
+    
+</body>
+</html>

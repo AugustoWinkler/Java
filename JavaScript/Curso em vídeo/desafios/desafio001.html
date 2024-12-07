@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Desafio Curso em vídeo</title>
+</head>
+<body>
+    <p>De qual pais você é? <input type="text" name="pais" id="pais"></p>
+    <button id="verificar" name="verificar" onclick="verificar()">Verificar</button>
+    <div id="res">
+
+    </div>
+
+    <script>
+        function verificar(){
+            var pais = window.document.getElementById('pais')
+            var res = window.document.getElementById('res')
+            var p = pais.value.toLowerCase()
+            if (p != 'brasil'){
+                res.innerHTML = (`Você é do ${p.toUpperCase()} portanto Estrangeiro`)
+
+            }else{
+                res.innerHTML = (`Você é do ${p.toUpperCase()} portanto Brasileiro.`)
+            }
+        }
+
+    </script>
+    
+</body>
+</html>

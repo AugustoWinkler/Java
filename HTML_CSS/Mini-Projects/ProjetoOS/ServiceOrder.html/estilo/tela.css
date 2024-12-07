@@ -1,0 +1,21 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+fieldset{
+    width: 96vw;
+    margin: auto;
+    border: 0.5 solid black;
+    font-size: 1.2em;
+}
+fieldset>p{
+    padding-left: 2%;
+}
+h1{
+    font-size: 2em;
+    background-color: black;
+    color: rgb(223, 87, 9);
+    text-align: center;
+    width: 96vw;
+    margin: auto;
+}

@@ -1,0 +1,10 @@
+@charset "UFT-8";
+
+/*AParelho deitado*/
+
+body{
+    background-image: url(../../imagens/cev-landscape.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: left bottom;
+}

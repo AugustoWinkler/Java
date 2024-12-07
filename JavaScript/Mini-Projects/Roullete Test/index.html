@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Roleta</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="spinBtn">Spin</div>
+        <div class="wheel">
+            <div class="number" style="--i:1; --clr:#db7093;"><span>100</span></div>
+            <div class="number" style="--i:2; --clr:#d070db;"><span>10</span></div>
+            <div class="number" style="--i:3; --clr:#9d70db;"><span>5</span></div>
+            <div class="number" style="--i:4; --clr:#7470db;"><span>10</span></div>
+            <div class="number" style="--i:5; --clr:#70cbdb;"><span>50</span></div>
+            <div class="number" style="--i:6; --clr:#70dbb7;"><span>30</span></div>
+            <div class="number" style="--i:7; --clr:#8edb70;"><span>20</span></div>
+            <div class="number" style="--i:8; --clr:#d7db70;"><span>5</span></div>
+
+        </div>
+    </div>
+
+    
+</body>
+<script>
+    let wheel =  document.querySelector('.wheel');
+    let spinBtn =  document.querySelector('.spinBtn');
+    let value = Math.ceil(Math.random() * 3600);
+
+    spinBtn.onclick = function() {
+    wheel.style.transform = "rotate(" + value + "deg)";
+    value += Math.ceil(Math.random() * 3600);
+}
+
+</script>
+</html>
