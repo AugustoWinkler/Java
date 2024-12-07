@@ -1,46 +1,26 @@
-# Java Learning Repository
+# StudyHub: My Learning Journey 🚀
 
-Welcome to my **Java Learning Repository**!  
-This space serves as a journal of my progress in mastering Java, showcasing various projects and exercises that reflect my journey.
+Welcome to my **StudyHub** repository!  
+This is a central space where I document my progress across various technologies and programming languages, showcasing projects, exercises, and challenges that reflect my growth as a developer.
 
----
+## 🌟 Objective
+This repository serves as a collection of my learning journey, dedicated to:
 
-## 🌟 Objective  
-This repository is dedicated to:  
-- Strengthening my understanding of Java concepts.  
-- Archiving hands-on exercises and personal projects.  
-- Building a portfolio of Java-based applications and prototypes.  
+- Strengthening my understanding of key programming languages and frameworks.
+- Archiving hands-on exercises, challenges, and personal projects.
 
----
+## 📁 Repository Structure
+This repository is organized by technology.
 
-## 📁 Repository Structure  
+- **HTML_CSS**
+- **React**
+- **Java**
+- **JavaScript**
+- **Python**
 
-### **Alura**  
+## 🚀 Key Features
+- **Diverse Topics**: Covers foundational concepts, algorithms, web development, and more advanced problem-solving techniques.
+- **Growing Portfolio**: Regular updates as I continue learning and completing new projects and exercises.
 
-### **Brocode**  
-
-### **Curso em video** 
-
-### **Challenges**
-
-### **Exercices**
-
-
-
-
----
-
-## 🚀 Key Features  
-- **Diverse topics:** Covers foundational concepts and advanced problem-solving.  
-- **Growing portfolio:** Regularly updated with new content as I progress.  
-
----
-
-## 🔧 Tools & Technologies  
-- **Java SE Development Kit (JDK)**  
-- **IntelliJ IDEA / Eclipse IDE**  
-- **Maven / Gradle** (for project builds)  
-
----
-
-
+## 📚 Learnings & Growth
+- Regular commits show my progress as I build upon foundational skills and tackle more advanced topics.
