@@ -1,0 +1,22 @@
+
+.root{
+	-fx-background-color: "#121212";
+}
+
+.Label{
+	-fx-alignment: center;
+}
+	
+#txtLabel{
+	-fx-font-size: 20;
+	-fx-fonte-family: "Lucidade Console";
+	-fx-text-fill: "white";
+	-fx-alignment: center;
+	
+}
+#lblTittle{
+	-fx-font-size: 30;
+	-fx-fonte-family: "Lucidade Console";
+	-fx-text-fill: "gray";
+	-fx-alignment: center;
+}
